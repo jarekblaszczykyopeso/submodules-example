@@ -1,0 +1,6 @@
+[submodule "jareks1"]
+	path = jareks1
+	url = https://github.com/jarekblaszczykyopeso/sub1.git
+[submodule "jareks2"]
+	path = jareks2
+	url = https://github.com/jarekblaszczykyopeso/sub2.git
